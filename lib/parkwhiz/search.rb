@@ -1,4 +1,4 @@
-module ParkWhiz
+module Parkwhiz
 
   SEARCH_PATH = "/search"
 

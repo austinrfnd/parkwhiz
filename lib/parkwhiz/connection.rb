@@ -1,4 +1,4 @@
-module ParkWhiz
+module Parkwhiz
   def self.connection=(connection)
     @connection = connection
   end

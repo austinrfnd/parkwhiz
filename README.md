@@ -23,7 +23,8 @@ Or install it yourself as:
 # Set your api key
 Parkwhiz.api_key = "my api key"
 
-search_results = Parkwhiz.search({destination: '1 World Way, Los Angeles, CA 90045'})
+locations = Parkwhiz.search({destination: '1 World Way, Los Angeles, CA 90045'})
+# Array of ParkwhizLocations
 ```
 ## Run Specs
 

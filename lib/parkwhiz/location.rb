@@ -1,4 +1,4 @@
-module ParkWhiz
+module Parkwhiz
   class Location
     include Virtus.model
     attribute :name, String

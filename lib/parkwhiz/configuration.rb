@@ -1,4 +1,4 @@
-module ParkWhiz
+module Parkwhiz
   def self.configure
     yield self
   end
