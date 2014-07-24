@@ -1,0 +1,3 @@
+module Parkwhiz
+  VERSION = "0.0.1"
+end
