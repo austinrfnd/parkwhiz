@@ -1,4 +1,4 @@
-# Parkwhiz
+# Parkwhiz [![Code Climate](https://codeclimate.com/github/austinrfnd/parkwhiz.png)](https://codeclimate.com/github/austinrfnd/parkwhiz)
 
 A gem wrapper to Parkwhiz API.
 
