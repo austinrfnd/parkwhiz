@@ -2,6 +2,7 @@
 
 [![Code Climate](https://codeclimate.com/github/austinrfnd/parkwhiz.png)](https://codeclimate.com/github/austinrfnd/parkwhiz)
 [![Build Status](https://travis-ci.org/austinrfnd/parkwhiz.svg?branch=master)](https://travis-ci.org/austinrfnd/parkwhiz)
+[![Test Coverage](https://codeclimate.com/github/austinrfnd/parkwhiz/coverage.png)](https://codeclimate.com/github/austinrfnd/parkwhiz)
 
 A gem wrapper to Parkwhiz API.
 
