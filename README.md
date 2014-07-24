@@ -24,7 +24,9 @@ Or install it yourself as:
 Parkwhiz.api_key = "my api key"
 
 locations = Parkwhiz.search({destination: '1 World Way, Los Angeles, CA 90045'})
+
 # Array of ParkwhizLocations
+locations
 ```
 ## Run Specs
 
