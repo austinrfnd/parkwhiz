@@ -1,6 +1,6 @@
 module Parkwhiz
 
-  SEARCH_PATH = "/search"
+  SEARCH_PATH = "/search/"
 
   # Search
   #
