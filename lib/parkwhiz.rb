@@ -7,6 +7,7 @@ require 'parkwhiz/configuration'
 require 'parkwhiz/connection'
 require 'parkwhiz/location'
 require 'parkwhiz/search'
+require 'parkwhiz/venue'
 
 module Parkwhiz
 
