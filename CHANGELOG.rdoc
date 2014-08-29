@@ -1,3 +1,6 @@
+=== 0.3.0
+ - Adding Event endpoint.  Thanks Eric Kuecks (ekuecks)
+
 === 0.2.0
  - Venue search endpoint
 
