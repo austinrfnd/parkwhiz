@@ -8,6 +8,7 @@ require 'parkwhiz/connection'
 require 'parkwhiz/location'
 require 'parkwhiz/search'
 require 'parkwhiz/venue'
+require 'parkwhiz/event'
 
 module Parkwhiz
 
