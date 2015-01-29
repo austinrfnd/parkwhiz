@@ -1,3 +1,6 @@
+=== 0.5.0
+ - Fixing a bug brought up by @Armandogb where search results don't have a location attached.  In that case we return an empty array.
+
 === 0.3.0
  - Adding Event endpoint.  Thanks Eric Kuecks (ekuecks)
 

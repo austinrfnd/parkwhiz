@@ -18,6 +18,6 @@ module Parkwhiz
 
     raise SearchError.new(response.body['error']) if response.body.kind_of?(Hash) && response.body['error']
 
-    response.body['parking_listings'].collect{|parking_listing_json| Location.new(parking_listing_json)}
+    (response.body['parking_listings']||[]).collect{|parking_listing_json| Location.new(parking_listing_json)}
   end
 end
