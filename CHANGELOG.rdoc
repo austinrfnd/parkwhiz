@@ -1,4 +1,4 @@
-=== 0.5.0
+=== 0.4.0
  - Fixing a bug brought up by @Armandogb where search results don't have a location attached.  In that case we return an empty array.
 
 === 0.3.0
